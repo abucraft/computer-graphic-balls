@@ -1,0 +1,5 @@
+resource
+model
+lib
+*.dll
+Debug

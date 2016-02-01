@@ -1,0 +1,7 @@
+.vs
+Debug
+Debugtinyxml
+Release
+Releasetinyxml
+x64
+*.sdf
